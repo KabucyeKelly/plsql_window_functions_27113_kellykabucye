@@ -48,7 +48,7 @@ The objective of this project is to use SQL JOINs and Window Functions to transf
 - One member can have multiple savings records
 - One member can have multiple loans
 
-📸 The ER diagram illustrating these relationships is included in the `er_diagram/` folder.
+ The ER diagram illustrating these relationships is included in the er_diagram folder.
 
 ---
 
@@ -69,7 +69,7 @@ Used to demonstrate advanced JOIN usage and verify data completeness.
 ### SELF JOIN – Member Comparison
 Used to compare members within the same employment category.
 
-📸 Screenshots are stored in `screenshots/joins/`
+ Screenshots are stored in `screenshots/joins/`
 
 ---
 
