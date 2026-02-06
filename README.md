@@ -90,7 +90,7 @@ Segments members into four loyalty quartiles based on savings activity.
 ### 5.5 Moving Average – `AVG() OVER()`
 Calculates rolling averages to smooth fluctuations and observe long-term trends.
 
-📸 Screenshots are stored in `screenshots/window_functions/`
+Screenshots are stored in `screenshots/window_functions/`
 
 ---
 
